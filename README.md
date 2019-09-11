@@ -7,6 +7,7 @@
 ![](https://img.shields.io/badge/%3C-awesome-green.svg)
 
 LeetCode刷题指南(Java版) https://yq.aliyun.com/articles/639802
+Leetcode刷题分类表 ： https://cspiration.com/leetcodeClassification#10301
 
 English | [简体中文](./README-CN.md) 
 
